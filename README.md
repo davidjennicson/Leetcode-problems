@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/davidjennicson/Leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/davidjennicson/Leetcode-problems/tree/master/0058-length-of-last-word) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/davidjennicson/Leetcode-problems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2727-number-of-senior-citizens](https://github.com/davidjennicson/Leetcode-problems/tree/master/2727-number-of-senior-citizens) |
@@ -24,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/davidjennicson/Leetcode-problems/tree/master/0001-two-sum) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/davidjennicson/Leetcode-problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
