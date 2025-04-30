@@ -10,8 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/davidjennicson/Leetcode-problems/tree/master/0058-length-of-last-word) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/davidjennicson/Leetcode-problems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [2727-number-of-senior-citizens](https://github.com/davidjennicson/Leetcode-problems/tree/master/2727-number-of-senior-citizens) |
 ## Greedy
 |  |
 | ------- |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/davidjennicson/Leetcode-problems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+## Array
+|  |
+| ------- |
+| [2727-number-of-senior-citizens](https://github.com/davidjennicson/Leetcode-problems/tree/master/2727-number-of-senior-citizens) |
 <!---LeetCode Topics End-->
