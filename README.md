@@ -18,5 +18,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/davidjennicson/Leetcode-problems/tree/master/0001-two-sum) |
 | [2727-number-of-senior-citizens](https://github.com/davidjennicson/Leetcode-problems/tree/master/2727-number-of-senior-citizens) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/davidjennicson/Leetcode-problems/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
