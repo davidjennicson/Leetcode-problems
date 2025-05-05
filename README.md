@@ -1,4 +1,9 @@
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+
+![Solved](https://img.shields.io/badge/LeetCode%20Solved-5-blue)
+![Easy](https://img.shields.io/badge/Easy-4-brightgreen)
+![Medium](https://img.shields.io/badge/Medium-1-yellow)
+![Hard](https://img.shields.io/badge/Hard-0-red)
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Two Pointers
