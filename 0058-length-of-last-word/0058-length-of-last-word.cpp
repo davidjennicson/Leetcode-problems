@@ -1,22 +1,21 @@
 class Solution {
 public:
     int lengthOfLastWord(string s) {
-        int score=0,beforescore;
-        for (int i=0;i<s.length();i++)
-        {
-            if(s[i]!=' ')
-            {
-                beforescore=score;
-                   score++;
-            }
-            else
-            {
-                
-                cout<<beforescore;
-                score=0;
-            }
-                 }
-       return max(beforescore+1,score);
+        int length = 0;
+        int i = s.length() - 1;
 
+        // Skip trailing spaces
+        while (i >= 0 && s[i] == ' ') {
+            i--;
+        }
+
+        // Count the length of the last word
+        while (i >= 0 && s[i] != ' ') {
+            length++;
+            i--;
+        }
+
+        return length;
+     
     }
 };
