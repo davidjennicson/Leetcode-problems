@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/davidjennicson/Leetcode-problems/tree/master/0001-two-sum) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/davidjennicson/Leetcode-problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [2727-number-of-senior-citizens](https://github.com/davidjennicson/Leetcode-problems/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
 |  |
