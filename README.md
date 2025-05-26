@@ -23,14 +23,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/davidjennicson/Leetcode-problems/tree/master/0001-two-sum) |
+| [0219-contains-duplicate-ii](https://github.com/davidjennicson/Leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/davidjennicson/Leetcode-problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [2727-number-of-senior-citizens](https://github.com/davidjennicson/Leetcode-problems/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/davidjennicson/Leetcode-problems/tree/master/0001-two-sum) |
+| [0219-contains-duplicate-ii](https://github.com/davidjennicson/Leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/davidjennicson/Leetcode-problems/tree/master/0014-longest-common-prefix) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/davidjennicson/Leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
